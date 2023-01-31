@@ -1,5 +1,10 @@
 # Data-Science-Projects
 
-# Here are a few of the Data Science and Machine Learning Projects which I have done over the past few months. 
+# A Collection of beginner data science projects covering Linear Regression, Classification Algorithms, PCA, Pipelines, Scalers and Data Preprocessing Techniques
 
-# Feel free to comment/pull :)
+1. Car Prices Regression
+2. Diabetes Cross Validation Pipeline
+3. Housing Data
+4. Iris Classification
+5. Kaggle TPS
+6. Sonar Data
